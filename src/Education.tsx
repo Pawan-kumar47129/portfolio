@@ -5,7 +5,7 @@ const educationData = [
     id: "1",
     degree: "Bachelor of Science in Computer Science",
     university: "Lovely Professional University",
-    date: "2022 - 2026",
+    date: "2022 - present",
     description:
       "Specialized in Full-Stack Web Development and Distributed Systems. Focused on designing scalable and performant applications.",
   },
