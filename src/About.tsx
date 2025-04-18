@@ -31,10 +31,10 @@ const About = () => {
                 alt="Pawan Kumar"
                 className="w-full h-auto object-cover"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-white/70 to-transparent dark:from-black/70"></div>
+              <div className="absolute inset-0 bg-gradient-to-t to-transparent dark:from-black/70"></div>
               <div className="absolute bottom-4 left-4 text-gray-800 dark:text-white">
-                <h3 className="text-xl font-semibold">Pawan Kumar</h3>
-                <p className="text-sm text-gray-600 dark:text-gray-300">
+                <h3 className="text-xl font-semibold text-white">Pawan Kumar</h3>
+                <p className="text-sm text-white dark:text-gray-300">
                   Full-Stack Software Engineer
                 </p>
               </div>
