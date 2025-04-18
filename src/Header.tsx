@@ -49,7 +49,7 @@ const Header = () => {
 
                 {/* Navigation Links */}
                 <ul
-                    className={`fixed top-0 left-0 h-full w-64 bg-gray-100 dark:bg-gray-900 text-gray-600 dark:text-gray-400 transform ${
+                    className={`fixed top-0 left-0 h-full w-64 bg-gray-100 dark:bg-gray-900 text-black dark:text-gray-200 transform ${
                         isMenuOpen ? "translate-x-0" : "-translate-x-full"
                     } lg:static lg:transform-none lg:flex lg:flex-row lg:space-x-6 lg:bg-transparent lg:dark:bg-transparent transition-transform duration-300 ease-in-out flex flex-col justify-center`}
                 >
